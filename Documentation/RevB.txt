@@ -1,0 +1,9 @@
+LiThe
+
+To-Do-List for Rev. B
+
+-Polarity mark on battery connector is reversed (fixed in KiCAD files)
+-Volume potentiometer is ineffective. Wire as divider to ground next time.
+-Works good for headphones, but not well with 8ohm speakers. Raise gain or add amplifier stage.
+
+If you have other ideas and/or complaints, please contact me: robert.valdimarsson@posteo.net
